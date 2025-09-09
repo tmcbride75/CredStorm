@@ -1,16 +1,16 @@
 # CredStorm
 A tool for Password Spraying multiple IPs and Services.
 
-====================================================================================
+============
 
 **Usage**
 
-python serSprinkle.py -t targets.txt -u users.txt -p passwords.txt
+python CredStorm.py -t targets.txt -u users.txt -p passwords.txt
 
-python serSprinkle.py -t targets.txt -u users.txt -p passwords.txt --sleep 2 --threads 5 --output hits.log
+python CredStorm.py -t targets.txt -u users.txt -p passwords.txt --sleep 2 --threads 5 --output hits.log
 
 
-====================================================================================
+============
 
 **Example of target.txt**
 

@@ -1,0 +1,14 @@
+root
+admin
+user
+test
+ftp
+anonymous
+administrator
+guest
+mail
+postmaster
+postgres
+sa
+system
+scott

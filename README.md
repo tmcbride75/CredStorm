@@ -1,5 +1,5 @@
 # Spit
-A tool for Password Spraying multiple IPs and Services.
+A tool for Password Spraying multiple Hosts and Services.
 
 ============
 

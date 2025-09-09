@@ -1,0 +1,56 @@
+Hydra Supported Services (Modules)
+
+Login Services:
+- ssh             Secure Shell login
+- ftp             File Transfer Protocol
+- telnet          Telnet login
+- http-get        HTTP Basic Auth (GET)
+- http-head       HTTP Basic Auth (HEAD)
+- http-post       HTTP Basic Auth (POST)
+- http-form-get   HTTP form-based login (GET method)
+- http-form-post  HTTP form-based login (POST method)
+- https-get       HTTPS Basic Auth (GET)
+- https-post      HTTPS Basic Auth (POST)
+- https-form-post HTTPS form-based login (POST)
+- https-form-get  HTTPS form-based login (GET)
+- smb             SMB/CIFS network shares
+- smb2            SMBv2 (Windows shares)
+- smbnt           SMB NetBIOS login
+- rdp             Remote Desktop Protocol
+- vnc             VNC remote desktop
+- pcanywhere      Symantec pcAnywhere
+- imap            IMAP email login
+- pop3            POP3 email login
+- nntp            Network News Transfer Protocol
+- smtp            SMTP (Simple Mail Transfer Protocol)
+- smtps           SMTP over SSL
+- ldap2           Lightweight Directory Access (v2)
+- ldap3           LDAP v3
+- snmp            SNMP (dictionary brute only)
+
+Database Services:
+- mysql           MySQL database login
+- mssql           Microsoft SQL Server login
+- postgres        PostgreSQL login
+- oracle-sid      Oracle SID brute
+- oracle-listener Oracle TNS Listener
+- cvs             Concurrent Versions System
+- svn             Subversion login
+
+Application & Misc Protocols:
+- irc             IRC login
+- teamspeak       TeamSpeak 2 login
+- xmpp            Jabber/XMPP login
+- redis           Redis key-value store
+- rlogin          Remote Login Protocol
+- rsh             Remote Shell Protocol
+- socks5          SOCKS5 proxy authentication
+- s7-300          Siemens S7-300 PLCs (SCADA)
+- vmauthd         VMware Authentication Daemon
+- asterisk        Asterisk VoIP
+- sip             SIP (VoIP brute)
+- http-proxy      HTTP Proxy authentication
+
+Other / Enumeration Modules:
+- smtp-enum       SMTP user enumeration
+- smb-enum        SMB user enumeration

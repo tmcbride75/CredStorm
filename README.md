@@ -12,7 +12,7 @@ python CredStorm.py -t targets.txt -u users.txt -p passwords.txt --sleep 2 --thr
 
 ============
 
-**Example of target.txt**
+**Example of targets.txt**
 
 10.10.10.1 "ssh,ftp,http-get"
 

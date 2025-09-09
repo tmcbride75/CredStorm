@@ -1,13 +1,13 @@
-# CredStorm
+# Spit
 A tool for Password Spraying multiple IPs and Services.
 
 ============
 
 **Usage**
 
-python CredStorm.py -t targets.txt -u usernames.txt -p passwords.txt
+python Spit.py -t targets.txt -u usernames.txt -p passwords.txt
 
-python CredStorm.py -t targets.txt -u usernames.txt -p passwords.txt --sleep 2 --threads 5 --output hits.log
+python Spit.py -t targets.txt -u usernames.txt -p passwords.txt --sleep 2 --threads 5 --output hits.log
 
 
 ============
